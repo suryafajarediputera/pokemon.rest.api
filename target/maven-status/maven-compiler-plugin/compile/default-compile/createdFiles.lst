@@ -1,0 +1,9 @@
+com\pokemon\rest\api\model\Pokemon.class
+com\pokemon\rest\api\service\PokemonService.class
+com\pokemon\rest\api\Application.class
+com\pokemon\rest\api\controller\PokemonController.class
+com\pokemon\rest\api\config\SpringFoxConfig.class
+com\pokemon\rest\api\model\response\ResultModel$ResultModelBuilder.class
+com\pokemon\rest\api\model\response\ResultModel.class
+com\pokemon\rest\api\repository\PokemonRepository.class
+com\pokemon\rest\api\model\request\PokemonCreationRequest.class

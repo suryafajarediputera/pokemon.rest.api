@@ -1,0 +1,8 @@
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\model\Pokemon.java
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\controller\PokemonController.java
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\model\request\PokemonCreationRequest.java
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\repository\PokemonRepository.java
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\service\PokemonService.java
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\Application.java
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\config\SpringFoxConfig.java
+D:\Work\SideJobs\Test\pokemon.rest.api\src\main\java\com\pokemon\rest\api\model\response\ResultModel.java

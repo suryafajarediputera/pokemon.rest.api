@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<pokemon.rest.api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.pokemon.rest.api.Application",
+            "projectName": "pokemon.rest.api",
+            "args": ""
+        }
+    ]
+}
